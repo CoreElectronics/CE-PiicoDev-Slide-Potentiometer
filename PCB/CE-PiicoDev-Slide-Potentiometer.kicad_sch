@@ -7,7 +7,7 @@
   (title_block
     (title "PiicoDev Slide Potentiometer")
     (date "2022-04-13")
-    (rev "01")
+    (rev "02")
     (company "Core Electronics")
     (comment 1 "Designed by Peter Johnston at")
     (comment 2 "PiicoDev and the PiicoDev logo are trademarks of Core Electronics Pty Ltd.")
